@@ -13,7 +13,7 @@ jobs:
 
     - name: Set up Git
       run: |
-        git config --global user.name kuilema2"
+        git config --global user.name "kuilema2"
         git config --global user.email "q454864608@gmail.com"
     - name: Create 365 empty commits
       run: |
